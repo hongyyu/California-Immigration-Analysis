@@ -21,6 +21,8 @@ table and four dimension tables) showing below with column names in the second l
    > fact_immigration_info
    > - cicid, admnum, count, visatype, gender, occup
 #### *Dimension Tables*
+Some column names in the `dim_immigration` table could be confused, please go to the file
+`I94_SAS_Labels_Descriptions.SAS` for more reference.
    > dim_date
    > - datetime, hour, day, week, month, year, weekday
 
