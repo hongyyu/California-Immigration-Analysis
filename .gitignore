@@ -165,3 +165,4 @@ metastore_db/
 .idea/
 sas_data/
 **.csv
+*.cfg
